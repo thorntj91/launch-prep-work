@@ -1,0 +1,3 @@
+execute method expects a pointer to a variable, not a block due to the omission of 
+the ampersand. When execute is called, it does not recognise the ajacent block 
+as a valid argument and so nothing is passed and the error in question is thrown.

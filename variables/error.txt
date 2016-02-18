@@ -1,0 +1,7 @@
+In each case 3 is printed to the screen.
+The only difference between the two is that in the second instance.
+Instead of X being used directly as the incrementing variable whose value is printed to 
+the command line after the loop terminates as in the first example.
+In the second, Y is used as a temporary variable to increment itself 3 times in the loop subsequently
+assigning its value to x. Therefore, at the end of the loop x = 3.
+

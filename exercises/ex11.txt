@@ -1,0 +1,2 @@
+I like the ruby docs because I find them concise which makes them easily searchable, and they provide good examples
+of the code in action.  

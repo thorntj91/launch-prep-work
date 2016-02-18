@@ -1,0 +1,2 @@
+An array is an ordered list that is indexed by integer keys
+A hash has its values referenced via a key.

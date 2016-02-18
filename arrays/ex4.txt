@@ -1,0 +1,3 @@
+1. Returns index of 5 => 3
+2. NoMethodError
+3. Returns element at index 5 => 8

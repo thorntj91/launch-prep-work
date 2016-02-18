@@ -1,0 +1,12 @@
+You are attempting to index into the last element of the array 
+like a hash by passing it a string as a key. Arrays need 
+and integer index hence ruby complains of no implicit conversion 
+of String into Integer.
+
+It can be fixed by:
+
+# provide integer index
+names[3] = 'jody' 
+
+# pass the string 'margaret' to an array helper which will retrieve the correct index
+names[names.index('margaret')] = 'jody' 

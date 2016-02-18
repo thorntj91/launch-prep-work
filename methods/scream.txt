@@ -1,0 +1,12 @@
+4a. Prints nothing since it exits method before puts.
+
+5a.
+
+def scream(words)
+	puts words += "!!!!"
+end
+
+scream("yipeee")
+
+5b.
+Returns value of puts, which is nil.

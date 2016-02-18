@@ -1,0 +1,5 @@
+The first hash uses the symbol :x as a key
+The second hash uses the variable x which contains the string "hi there".
+
+In effect it is equivalent to 
+my_hash2 = {"hi there" => "some value"}

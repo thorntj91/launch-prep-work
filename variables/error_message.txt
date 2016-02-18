@@ -1,0 +1,3 @@
+Variable shoes is unidentified by the ruby interpretor since it is either
+1) Undefined in the program 
+2) Defined out of the scope of the context in which it was referenced
